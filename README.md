@@ -1,9 +1,8 @@
 # awesome-webpage
  Odin Project #2
 
-## Website design goal
-!(/01.png)
-
+## Website design target
+![Website design target](docs/01.png)
 
 ## Colour and Fonts
-!(/02.png)
+![Colour and Fonts](docs/02.png)
